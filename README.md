@@ -1,0 +1,2 @@
+# SpawnCommand
+/spawn Plugin
