@@ -1,7 +1,7 @@
 name: SpawnCommand
 version: 1.1
 api: 3.0.0-ALPHA11
-author: Pxssiii
+author: WortTuner
 main: SpawnCommand\Main
 
 commands:
